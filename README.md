@@ -3,7 +3,7 @@
 Esse projeto apresenta algoritmos para problemas relacionados a matrizes e vetores
 
 ## Exercícios
-- Permitir que entradas de qualquer tamanho sejam devidamente cifradas
+
 - **Inverte vetor**
 	> Inverte um vetor inserido
 - **Maior Comprimento**
