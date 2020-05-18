@@ -1,6 +1,6 @@
 # Matrizes em C
 
-Esse projeto apresenta algoritmos para problemas relacionados a matrizes
+Esse projeto apresenta algoritmos para problemas relacionados a matrizes e vetores
 
 ## Exercícios
 - Permitir que entradas de qualquer tamanho sejam devidamente cifradas
